@@ -3,4 +3,25 @@
 How to Run 
 
 Step 1 : 
-Run 
+Goto  create-vpn-gcp-aws folder 
+run the terraform apply command 
+
+Inputs to be used 
+
+gcp_project_id 
+gcp_region 
+gcp_network_name 
+gcp_cidr 
+
+aws_region 
+aws_vpc_id 
+aws_security_group
+aws_route_tables_ids 
+
+
+Step 2
+
+Goto 
+
+
+
