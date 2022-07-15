@@ -40,11 +40,19 @@ Go to the Kubectl folder and run the deployment.yaml and service.yaml
 
 
 Step 3
+Goto create-aws-lambda
 
-Goto 
+run Terraform 
+
+Inputs to be used 
+aws_region [string]
+aws_vpc //VPC ID [list]
+aws_sg  //Security Group Id [list]
 
 
+Run the Lambda function 
 
+in the Env variable change the url to the internal IP Address of Load Balancer 
 
 
 
