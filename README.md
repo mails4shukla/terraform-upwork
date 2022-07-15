@@ -15,6 +15,7 @@ gcp_region ,
 gcp_network_name ,
 gcp_cidr ,
 
+AWS Inputs 
 aws_region ,
 aws_vpc_id ,
 aws_security_group,
