@@ -7,6 +7,8 @@ Goto  create-vpn-gcp-aws folder
 run the terraform apply command 
 
 Inputs to be used in the terraform.tfvars 
+
+
 GCP Inputs 
 gcp_project_id ,
 gcp_region ,
